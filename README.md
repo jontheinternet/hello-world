@@ -1,4 +1,6 @@
 # hello-world
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/44931d0a-005b-4f9f-974e-4d176580e6de.svg?orgId=445175248269)](https://app.soluble.cloud/repos/details/github.com/jontheinternet/hello-world?orgId=445175248269)  
 hey, this is a description of what this repository is all about.  
 
 just got prodigy.  starting a bbs at some point.  saving all my money for japanese video games.  
